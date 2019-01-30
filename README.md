@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Test for webpage
 
 You can use the [editor on GitHub](https://github.com/rgroveuts/TEST/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 2 months
+## 4 months
+### 6 months
 
 - Bulleted
 - List
